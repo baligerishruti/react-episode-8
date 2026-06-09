@@ -1,0 +1,28 @@
+{
+  "name": "react-episode-7",
+  "version": "1.0.0",
+  "description": "Namaste React learning episode 7",
+  "scripts": {
+    "start": "parcel index.html --no-cache",
+    "build": "parcel build index.html --no-cache",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baligerishruti/react-episode-7.git"
+  },
+  "author": "Shruti B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baligerishruti/react-episode-7/issues"
+  },
+  "homepage": "https://github.com/baligerishruti/react-episode-7#readme",
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
